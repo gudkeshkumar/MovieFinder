@@ -1,0 +1,77 @@
+{
+  "Search": [
+    {
+      "Title": "Lego Marvel Super Heroes: Maximum Overload",
+      "Year": "2013",
+      "imdbID": "tt3322904",
+      "Type": "series",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWUzMjMxNmItNDRjYi00NGQ0LTk1NTQtYWIwMzQwNGNlYWRiXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Adventures of Captain Marvel",
+      "Year": "1941",
+      "imdbID": "tt0033317",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjg0NTk3NjUyNF5BMl5BanBnXkFtZTgwNDQ5MjM1MjE@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Marvel Rising: Secret Warriors",
+      "Year": "2018",
+      "imdbID": "tt7728344",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGU5YTVlZTktNzgzMS00MGVlLTgyMGMtNWYwNTkwNGY1MzllXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Marvel: Ultimate Alliance",
+      "Year": "2006",
+      "imdbID": "tt0814207",
+      "Type": "game",
+      "Poster": "N/A"
+    },
+    {
+      "Title": "Pokémon the Movie: Volcanion and the Mechanical Marvel",
+      "Year": "2016",
+      "imdbID": "tt5889204",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTUwZDEzZGEtYTJlYi00OTRkLWJmMzItODU0ZWViMTUyYjUzXkEyXkFqcGdeQXVyNzEyMDQ1MDA@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Marvel 75 Years: From Pulp to Pop!",
+      "Year": "2014",
+      "imdbID": "tt4128102",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ4MjE1NTk3NF5BMl5BanBnXkFtZTgwMTk4Mjg2NDE@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Marvel vs. Capcom 3: Fate of Two Worlds",
+      "Year": "2011",
+      "imdbID": "tt1764479",
+      "Type": "game",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2JmMTgwYjgtYjYwZi00NjViLWE2MGQtN2QxMDY5YmJiN2EwXkEyXkFqcGdeQXVyNTk1ODMyNjA@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Marvel Super Hero Adventures: Frost Fight!",
+      "Year": "2015",
+      "imdbID": "tt5272052",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTg0MzgyMzM2MV5BMl5BanBnXkFtZTgwMDI2MTU1NzE@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Lego Marvel Super Heroes: Avengers Reassembled",
+      "Year": "2015",
+      "imdbID": "tt5371572",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTAyMTVmNjMtMWQ4ZS00NzJmLWI1ODUtMjU5MWU2ZWU2NzYzXkEyXkFqcGdeQXVyMjQ0OTA1Nzc@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Marvel vs. Capcom 2: New Age of Heroes",
+      "Year": "2000",
+      "imdbID": "tt0266750",
+      "Type": "game",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjMzZTQ5NTgtMmM3Yi00NDE2LWFmZGMtZGUzMjVkZjM3YjIyXkEyXkFqcGdeQXVyMTA3NjAwMDc4._V1_SX300.jpg"
+    }
+  ],
+  "totalResults": "213",
+  "Response": "True"
+  "Error": "Incorrect IMDb ID."
+}
